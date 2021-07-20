@@ -3,5 +3,7 @@ public class Substring {
         String s="Substring Java";
         System.out.println(s.substring(10));
         System.out.println(s.substring(2,5));
+
+        System.out.println(s.charAt(3));
     }
 }

@@ -1,4 +1,3 @@
-package com.company;
 
 public class Length_String {
     public static void main(String args[]){
